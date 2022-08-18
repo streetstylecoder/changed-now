@@ -1,0 +1,27 @@
+
+
+body{
+background-image: url(new.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+.nav{
+    color:black;
+}
+.iam{
+    color: black;
+      font-size: 55px;
+      padding: 15px;
+      font-family: sans-serif;
+  }
+  .text{
+    color: white;
+      border-right: 2px solid white;
+      font-size: 55px;
+      font-family: 'Merriweather', serif;
+
+  }
+  .type{
+    font-family: 'Merriweather', serif;
+  }
