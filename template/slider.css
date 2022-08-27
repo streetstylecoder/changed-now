@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', 'sans-serif';
+}
+
+a {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+p,
+a,
+button {
+	color: white;
+}
+h2 {
+	font-family: 'Cormorant Garamond', serif;
+	font-weight: 300;
+}
+
+
